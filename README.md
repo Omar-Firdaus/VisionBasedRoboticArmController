@@ -84,8 +84,4 @@ python colorBlobArmControl.py --mode arm
 * If tracking is unstable, tweak the HSV range slightly.
 * Use good lighting to avoid color noise.
 * The arm won’t move if it’s not connected — the program will just display tracking output.
-* You can easily expand this to track multiple colors or integrate with other sensors.
 
----
-
-Would you like me to include a short section at the end explaining how to modify it for multiple color tracking (e.g., red + yellow objects)?
